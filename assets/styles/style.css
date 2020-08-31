@@ -162,3 +162,27 @@ footer {
     font-style: italic;
     margin-top: 0;
 }
+
+
+@media screen and (max-width: 663px) {
+    .flex-container-row {
+        flex-direction: column;
+    }
+
+    #home .flex-container-row {
+        flex-direction: column-reverse;
+    }
+
+    #img-profile {
+        width: 150px;
+        margin-bottom: 20px;
+    }
+
+    #home, #about, #experience, #contact {
+        padding: 50px 10px;
+    }
+
+    #home, #about {
+        text-align: center;
+    }
+}
