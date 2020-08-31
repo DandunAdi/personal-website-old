@@ -185,4 +185,9 @@ footer {
     #home, #about {
         text-align: center;
     }
+
+    .card {
+        padding: 15px;
+        margin: 10px;
+    }
 }
