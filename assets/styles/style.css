@@ -55,7 +55,7 @@ p {
 
 /* by ID */
 
-#home, #about, #experience {
+#home, #about, #experience, #contact {
     padding: 200px 100px;
 }
 
@@ -67,7 +67,12 @@ p {
     margin-left: 0;
 }
 
-#experience {
+#contact h2 {
+    margin-left: 30px;
+    margin-bottom: 0;
+}
+
+#experience, #contact {
     padding-top: 50px;
 }
 
