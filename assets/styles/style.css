@@ -53,6 +53,11 @@ p {
     line-height: 24px;
 }
 
+footer {
+    width: 100%;
+    text-align: center;
+}
+
 /* by ID */
 
 #home, #about, #experience, #contact {
@@ -86,11 +91,12 @@ p {
 
 #name {
     margin-bottom: 0;
+    margin-top: 20px;
     padding-bottom: 0;
 }
 
 #img-profile {
-    max-width: 350px;
+    max-width: 325px;
     display: block;
     margin: auto;
 
