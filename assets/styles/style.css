@@ -77,6 +77,17 @@ footer {
     margin-bottom: 0;
 }
 
+#contact .button {
+    margin: 20px;
+    width: 110px;
+    text-align: center;
+}
+
+#contact a {
+    color: #110F17;
+    text-decoration: none;
+}
+
 #experience, #contact {
     padding-top: 50px;
 }
@@ -139,7 +150,7 @@ footer {
 
 .card {
     background-color: #1E1E24;
-    padding: 10px 40px;
+    padding: 10px 40px 30px 40px;
     margin: 30px;
     box-shadow: 0 4px 20px 0 rgba(0, 0, 0, 0.5);
     border-radius: 5px;
@@ -163,6 +174,16 @@ footer {
     margin-top: 0;
 }
 
+.link {
+    color: #188c91;
+}
+.button {
+    background-color: #348085;
+    border-radius: 30px;
+    padding: 10px 20px;
+    color: #110F17;
+    text-decoration: none;
+}
 
 @media screen and (max-width: 663px) {
     .flex-container-row {
