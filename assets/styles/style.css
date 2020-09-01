@@ -14,21 +14,30 @@ body {
     opacity: 0.9;
 }
 
-header nav {
+header {
+    display: inline;
+}
+
+nav {
     width: 100%;
     background: #1E1E24;
     padding: 10px;
+    text-align: right;
+    position: sticky;
+    top: 0;
 }
 
 nav li {
     display: inline;
     list-style-type: none;
-    margin-left: 20px;
+    margin-right: 50px;
 }
 
 nav li a {
     text-decoration: none;
     color: white;
+    font-size: 16px;
+    font-weight: 200;
 }
 
 h1 {
@@ -48,7 +57,6 @@ h3 {
 
 p {
     font-weight: 100;
-    opacity: 0.9;
 
     line-height: 24px;
 }
@@ -214,6 +222,19 @@ footer {
 
     #contact a, #contact h2 {
         margin: auto;
+    }
+
+    header nav {
+        text-align: left;
+    }
+    header li, header ul {
+        margin: 10px;
+        padding: 0;
+    }
+
+    nav li a {
+
+        font-size: 14px;
     }
 
 }
