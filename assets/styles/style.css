@@ -118,7 +118,7 @@ footer {
     max-width: 325px;
     display: block;
     margin: auto;
-
+    border-radius: 50%;
 }
 
 #img-about {
