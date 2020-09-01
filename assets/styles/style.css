@@ -203,7 +203,7 @@ footer {
         padding: 50px 10px;
     }
 
-    #home, #about {
+    #home, #about, #contact {
         text-align: center;
     }
 
@@ -211,4 +211,9 @@ footer {
         padding: 15px;
         margin: 10px;
     }
+
+    #contact a, #contact h2 {
+        margin: auto;
+    }
+
 }
