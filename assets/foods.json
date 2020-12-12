@@ -1,0 +1,633 @@
+[
+    
+    {
+        "name": "Cheese Burger",
+        "category": 0,
+        "image": "cheese-burger",
+        "caption": "Scrumptious, 100% beef patty",
+        "description": "Scrumptious, 100% beef patty with zero additives or preservatives, seasoned with pepper and salt, and topped with a slice of cheese, lettuce, tomato, onion, pickles, and a condiment of your choice on a freshly baked bun.",
+        "price": 3.99,
+        "rating": 4.8,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Bacon Cheese Burger",
+        "category": 0,
+        "image": "bacon-cheese-burger",
+        "caption": "Crisp, thick-cut",
+        "description": "Crisp, thick-cut & 100% halal mock bacon tops off an 100% beef preservative and additive free beef patty, adorned [ewith melty cheese, crisp lettuce, juicy tomato, onions pickles, and your choice of sauce on a freshly baked bun.",
+        "price": 3.99,
+        "rating": 4.5,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Double Cheese Burger",
+        "category": 0,
+        "image": "double-cheese-burger",
+        "caption": "2 sumptuous, 100% beef patties",
+        "description": "2 sumptuous, 100% beef patties with zero additives or preservatives, seasoned with pepper and salt, and topped with a slice of cheese, lettuce, tomato, onion, pickles, and a condiment of your choice on a freshly baked bun.",
+        "price": 4.99,
+        "rating": 4.9,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Hell Burger",
+        "category": 0,
+        "image": "hell-burger",
+        "caption": "Fiery Hell Sauce",
+        "description": "Our signature, 100% beef patty with zero additives or preservatives, seasoned with salt and pepper, with fried onions, jalapeños, a slice of Swiss cheese, and a slice of American Cheese on a freshly baked bun, drizzled with our fiery Hell Sauce for a truly heated experience.",
+        "price": 3.99,
+        "rating": 4.6,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Chicken Sandwich",
+        "category": 0,
+        "image": "chicken-sandwich",
+        "caption": "Natural chicken breast filet",
+        "description": "An 100% natural chicken breast filet with zero additives, marinated to perfection, topped with juicy tomatoes, crisp lettuce, and your choice of sauce on a freshly baked brioche bun.",
+        "price": 2.99,
+        "rating": 4.6,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Spicy Chicken Sandwich",
+        "category": 0,
+        "image": "spicy-chicken-sandwich",
+        "caption": "A fiery hot, crisp",
+        "description": "A fiery hot, crisp 100% additive and preservative free chicken filet, topped with crisp lettuce, juicy tomatoes, and mayonnaise on a freshly baked brioche bun.",
+        "price": 3.99,
+        "rating": 4.6,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Beyond Burger",
+        "category": 0,
+        "image": "beyond-burger",
+        "caption": "Savory, smoky, 100% vegetarian",
+        "description": "Savory, smoky, 100% vegetarian Beyond Burger Patty; The world’s first plant-based burger that looks, cooks and satisfies like beef without GMOs, soy, or gluten. Made from plants. Made for meat lovers.",
+        "price": 3.99,
+        "rating": 4.6,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Chicken w/ Biscuit",
+        "category": 1,
+        "image": "2-piece-chicken-with-biscuit",
+        "caption": "Tender, juicy, golden crispy",
+        "description": "2 pieces of our tender, juicy, golden crispy, 100% natural chicken - complete with 1 of our freshly baked, flaky, and buttery biscuits.",
+        "price": 2.99,
+        "rating": 4.8,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Chicken Wings w/ Biscuit",
+        "category": 1,
+        "image": "4-pc-chicken-wings-with-biscuit",
+        "caption": "Special with chicken breast",
+        "description": "4 of our specialty wings - made with fresh, natural, 100% additive and preservative free chicken. Choose Crispy Fried Chicken Wings or spicy Buffalo Wings (covered w Sauce.) Comes with 1 of our freshly baked, flaky, and buttery biscuits.",
+        "price": 2.99,
+        "rating": 4.5,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Tender's w/ Biscuit",
+        "category": 1,
+        "image": "3-piece-tenders-with-biscuit",
+        "caption": "Golden crisp, boneless",
+        "description": "3 Pieces of our golden crisp, boneless, 100% white meat, additive and preservative free chicken tenders- complete with 1 of our freshly baked, flaky, and buttery biscuits.",
+        "price": 3.25,
+        "rating": 4.2,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Fries",
+        "category": 2,
+        "image": "small-fries",
+        "caption": "Golden fried and velvety",
+        "description": "Golden fried and velvety potatoes. Make the best kind of satisfying snack, or the ultimate side to any Texas style burger or fried chicken dish for the classic American meal.",
+        "price": 1.99,
+        "rating": 4.8,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Cheese Fries",
+        "category": 2,
+        "image": "cheese-fries",
+        "caption": "Molten melted cheese",
+        "description": "Crisp, golden fried potatoes - topped with molten melted cheese. The perfect comfort food, snack, or classic side dish to a hearty meal.",
+        "price": 2.25,
+        "rating": 4.5,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Corn on Cob",
+        "category": 2,
+        "image": "corn-on-cob",
+        "caption": "Crisp and savory",
+        "description": "Complete your bona fide Southern style meal with a side of farm fresh corn on the cob. Crisp and savory, just the way nature intended.",
+        "price": 0.99,
+        "rating": 4.2,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Cole Slaw",
+        "category": 2,
+        "image": "cole-slaw",
+        "caption": "Slaw made with fresh, crunchy cabbage",
+        "description": "Make it a picnic every day with our signature Slaw made with fresh, crunchy cabbage and drenched in our signature vinaigrette. For a truly authentic Southern style experience, try it with our fried chicken for a classic feast!",
+        "price": 1.99,
+        "rating": 4.2,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Mashed Potato",
+        "category": 2,
+        "image": "mashed-potato",
+        "caption": "A classic side",
+        "description": "A classic side or comfort-food snack, our home-made Mash freshly made from velvety, natural potatoes can be paired with fresh fried chicken for a classic meal, or enjoyed on it's own for a filling and nourishing snack.",
+        "price": 1.99,
+        "rating": 4.5,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Family Meals Combo 1",
+        "category": 3,
+        "image": "8-pc-chicken-or-tenders-with-two-sides-and-four-biscuits",
+        "caption": "8 Pc Chicken w/ 2 Side's and 4 Biscuit's",
+        "description": "8 Piece Meal- Perfect for sharing: 8 pieces of our juicy, golden crispy, 100% natural fried chicken or chicken tenders- complete with 2 signature sides and 4 of our freshly baked, flaky, and buttery biscuits.",
+        "price": 14.99,
+        "rating": 4.8,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Family Meals Combo 2",
+        "category": 3,
+        "image": "12-pc-chicken-on-tenders-with-four-sides-and-six-biscuits",
+        "caption": "12 Pc Chicken w/ 4 Side's and 6 Biscuit's",
+        "description": "12 pieces of our juicy, golden crispy, 100% natural fried chicken or chicken tenders- complete with 4 signature sides and 8 of our freshly baked, flaky, and buttery biscuits.",
+        "price": 19.99,
+        "rating": 4.5,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    },
+    {
+        "name": "Family Meals Combo 3",
+        "category": 3,
+        "image": "16-pc-chicken-or-tenders-with-six-sides-and-eight-biscuits",
+        "caption": "16 Pc Chicken w/ 6 Side's and 8 Biscuit's",
+        "description": "A bona fide Southern Style feast: 16 pieces of our juicy, golden crispy, 100% natural fried chicken or chicken tenders- complete with 6 signature sides and 8 of our freshly baked, flaky, and buttery biscuits.",
+        "price": 24.99,
+        "rating": 4.2,
+        "nutritions": [
+            {
+                "name": "Calories",
+                "amount": "650 kCal",
+            },
+            {
+                "name": "Fat",
+                "amount": "38g",
+            },
+            {
+                "name": "Cholesterol",
+                "amount": "120mg",
+            },
+            {
+                "name": "Carbohydrates",
+                "amount": "38g",
+            },
+            {
+                "name": "Sugar",
+                "amount": "10g",
+            },
+            {
+                "name": "Proteins",
+                "amount": "38g",
+            },
+        ]
+    }
+]
